@@ -18,7 +18,7 @@ A string list is a string form that represents an array in a specific format. Th
 
 ### List Formatting
 
-A valid string list in Luminova follows specific formats:
+A valid string list in this context follows specific formats:
 
 1. **Comma-Separated Non-Nested Arrays**: Use commas to separate elements in a flat array both key-value pairs.
 
