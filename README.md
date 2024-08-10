@@ -3,6 +3,14 @@
 
 The class provides utility methods for manipulating and validating string lists, converting between string representations and arrays. It includes methods to check if a string is a valid list format, convert between list strings and arrays, and perform other related operations.
 
+## Installtion 
+
+Install via composer 
+
+```bash
+composer require peterujah/php-string-list
+```
+
 ### What is a String List?
 
 A string list is a string form that represents an array in a specific format. This format allows for easy conversion between string and array forms. This can be useful for handling comma-separated strings and performing conversions, validations or configuration of simple data storage, in a scenarios where data needs to be easily readable and writable in a string format.
