@@ -1,0 +1,9 @@
+{
+  "name": "@peterujah/php-string-list",
+  "description": "PHP string list",
+  "version": "1.3",
+  "homepage": "http://github.com/peterujah/php-string-list",
+  "repository": "git://github.com/peterujah/pphp-string-list.git",
+  "author": "Ujah Chigozie <ujahchigozie@gmail.com>",
+  "license": "MIT"
+}
