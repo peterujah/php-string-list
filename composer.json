@@ -6,7 +6,7 @@
         "library",
         "luminova",
         "string",
-        "php",
+        "php"
     ],
     "license": "MIT",
     "authors": [
