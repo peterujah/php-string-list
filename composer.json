@@ -1,0 +1,27 @@
+{
+    "name": "peterujah/php-string-list",
+    "type": "library",
+    "description": "PHP string Lists is a utility class for converting between string lists and arrays, providing a straightforward way to handle structured data in a string format.",
+    "keywords": [
+        "library",
+        "luminova",
+        "string",
+        "php",
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ujah Chigozie",
+            "email": "ujahchigozie@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    },
+    "autoload": {
+        "psr-4": { 
+            "Peterujah\\Strings\\": "src/" 
+        }
+    },
+    "prefer-stable": true
+}
